@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on tutorial sessions
-- 📫 How to reach me ...
 
 <!---
 Dorcuspdd/Dorcuspdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
